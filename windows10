@@ -1,0 +1,15 @@
+Scenario:  Outlook not responding, error or Outlook freezes when the user open a file or send mail
+
+User story: As a user, I am able to have access to open my email.
+
+Description:  When the user open outlook or send an emai message in outlook in Microsoft, Outlook freezes , or the user receive the following error. "Outlook not responding"
+
+
+Title: Outlook not responding
+
+Basic flow: 
+	1. The user called in saying that he hade a issue with Outlook
+	2. I remoted the user computer and I started an automatically repair Office program files to resolve such problems as Outlook freezing or not responding.
+	3. The user now need to wait untill the Online repair is done.
+	4. I told to him to call in if the the issue persist.
+	5. The user agreed to case closure.
